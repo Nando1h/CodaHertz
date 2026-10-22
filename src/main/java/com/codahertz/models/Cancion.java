@@ -1,4 +1,4 @@
-package com.codahertz.codahertz.models;
+package com.codahertz.models;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -18,4 +18,11 @@ public class Cancion {
 
     private String titulo;
     private String artista; 
+
+
+    @Column(length = 500)
+    private String descripcion;
+
+    @Column(length = 500)
+    private String enlace;
 }

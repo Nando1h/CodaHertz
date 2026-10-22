@@ -1,6 +1,6 @@
-package com.codahertz.codahertz.repositories;
+package com.codahertz.repositories;
 
-import com.codahertz.codahertz.models.Cancion;
+import com.codahertz.models.Cancion;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

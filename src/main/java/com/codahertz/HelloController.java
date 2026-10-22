@@ -1,4 +1,4 @@
-package com.codahertz.codahertz;
+package com.codahertz;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

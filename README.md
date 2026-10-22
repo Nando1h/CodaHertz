@@ -1,7 +1,5 @@
 # CodaHertz
 
-# CodaHertz
-
 ## 1. Descripción general del proyecto
 
 CodaHertz es una aplicación web para descubrir, calificar y organizar música. No reproduce canciones: funciona como una plataforma de reseñas y recomendaciones. Los usuarios pueden registrar canciones con su título, una breve descripción y el lugar donde encontrarlas (por ejemplo, un enlace a una plataforma de streaming), calificarlas con estrellas, escribir reseñas y guardar sus canciones favoritas en playlists personales.
